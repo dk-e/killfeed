@@ -7,4 +7,4 @@
 ####  3. Edit ```killfeed.js```, ```main.css``` and ```index.html``` as needed for your usage.
 
 ## credits
-can't remember & me
+desired (@projectings) & me
