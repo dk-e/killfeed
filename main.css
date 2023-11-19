@@ -25,14 +25,14 @@ html,body {
 	display:inline-block;
 	float:right;
 	clear:both;
-	border:2px #800000 solid;
+	border: 2px solid rgba(117, 117, 117, 0.15);
 	line-height:18px;
 	font-size:15px;
 	font-weight:normal;
 	text-decoration:none;
 	text-align:right;
 	border-radius:4px;
-	background:rgba(0,0,0,0.75);
+	background: rgba(117, 117, 117, 0.1);
 	margin-bottom:6px;
 }
 .kill-feed div span {
@@ -51,10 +51,10 @@ html,body {
 	margin:0 2px;
 }
 .kill-feed div>span.player.ct {
-	color:#4F9EDE;
+	color:#ff2c2c;
 	padding-left:2px;
 }
 .kill-feed div>span.player.t {
-	color:#C7A247;
+	color:#5871ff;
 	padding-right:4px;
 }
